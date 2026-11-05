@@ -4,12 +4,9 @@
 **/generated/
 **/Generated/
 
-# Praktikum lama package-lock.json (Pertemuan 4-7)
-Pertemuan-4/**/package-lock.json
-Pertemuan-5/**/package-lock.json
+# Praktikum lama package-lock.json (Pertemuan 6-7)
 Pertemuan-6/**/package-lock.json
 Pertemuan-7/**/package-lock.json
 
 # File redundan
 Pertemuan-7/tugas-5/src/routes/app.ts
-
